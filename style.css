@@ -24,7 +24,7 @@ body {}
 
 body {
     overflow: hidden;
-    font-size: 0.85em;
+    font-size: 0.9em;
     line-height: 1.1em;
     color: var(--main-font-color);
     background: var(--main-background-color);
